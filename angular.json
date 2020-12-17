@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "proc"
+  "defaultProject": "proc",
+  "cli": {
+    "analytics": "9e4fac8e-4517-4c99-892d-95ce5f65c24c"
+  }
 }
